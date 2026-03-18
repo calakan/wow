@@ -6,4 +6,3 @@
 ![Picture of distances_to_origin](distances_to_origin.png)
 ![Picture of Theta](theta_over_time.png)
 
-# wow
